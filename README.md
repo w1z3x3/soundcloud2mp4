@@ -1,3 +1,8 @@
+[![Version](https://img.shields.io/github/v/release/w1z3x3/soundcloud2mp4)](https://github.com/w1z3x3/soundcloud2mp4/releases)
+[![License](https://img.shields.io/github/license/w1z3x3/soundcloud2mp4)](https://github.com/w1z3x3/soundcloud2mp4/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/w1z3x3/soundcloud2mp4/total)](https://github.com/w1z3x3/soundcloud2mp4/releases)
+
+
 # SoundCloud → MP4 Converter
 
 Turn a SoundCloud playlist (or a single track) into MP4 music videos. Each track
