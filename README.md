@@ -10,8 +10,9 @@ It is a native desktop application written in Rust, built on **egui/eframe** for
 the interface, **tokio** for background work, and the external tools **yt-dlp**
 (downloading + metadata) and **ffmpeg** (audio conversion + video rendering).
 
-> **Screenshots:** _add images here, e.g._ `docs/main-window.png`,
-> `docs/settings.png`, `docs/combined-export.png`.
+> **Screenshots:**
+> <img width="1114" height="832" alt="soundcloud" src="https://github.com/user-attachments/assets/976983b2-682c-4100-bcc2-b9d6deaad717" />
+
 
 ---
 
