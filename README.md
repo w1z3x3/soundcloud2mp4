@@ -633,5 +633,4 @@ Service.
 
 ## License
 
-_Add your license here._ The project's `Cargo.toml` currently declares **MIT**; add
-a `LICENSE` file with the full text before publishing.
+MIT
