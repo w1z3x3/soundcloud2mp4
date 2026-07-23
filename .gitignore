@@ -1,0 +1,22 @@
+# Build output
+/target
+
+# Local, user-specific configuration (may contain local paths / browser choice)
+config.json
+
+# Runtime-generated artifacts — never commit (may contain personal data)
+# Combined-export work directory (rendered clips, batches, resume checkpoint)
+.work/
+# Resume checkpoint
+resume.json
+# Debug / cached data written to the app config dir if it coincides with the repo
+debug/
+metadata/
+logs/
+encoders.json
+# Rendered output
+*.mp4
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
